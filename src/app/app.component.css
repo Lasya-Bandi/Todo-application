@@ -1,0 +1,45 @@
+td{
+    background: lightseagreen;
+    padding-left: 5px;
+    border: 50px;
+    
+}
+th{
+    background: lightseagreen;
+    padding: 5px;
+}
+
+button{
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    background: lightpink;
+}
+
+input{
+    height: 40px;
+    width: 250px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    height:50px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: lightseagreen;
+}
+
+.footer{
+    position: fixed;
+    height: 50px;
+    background-color: lightseagreen;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+
+}
